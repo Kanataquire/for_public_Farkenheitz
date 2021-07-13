@@ -1,0 +1,22 @@
+part,verb,pronounce,typeA,typeB,typeC,typeD,meanings
+V,fal, ['fəl], Z動詞, iv過去, , , 食べる
+V,bufwalt, ['bʌfwəlt], Z動詞, iv過去, , , 情報を集約すること.
+V,schpel, [ʃp'el], Z動詞, iv過去, , , 訴える(裁判など) 日本語の訴えかける意味はない.
+V,witke, [wík], L動詞, iv過去, , , 考える
+V,kespel, ['kespɛl], Z動詞, iv過去, , , 話す
+V,lècatiq, ['le:katɪk], 不変化, iv過去, , , 名付ける
+V,spec, [sp'ek], Z動詞, iv過去, , , 開ける
+V,neut, ['nɔ:t], Z動詞, iv過去, , , 存在する、である等、英語のbe動詞とほぼ同義.
+N,vikit, ['vɪkɪt], 可算名詞, i複数, , , 猫
+N,Farkenheitz, ['fʌlkenhʌɪts], 固有名詞, , , , 言語名; ファルケンハイツ語.
+N,spletz, [spl'ets], 可算名詞, i複数, , , 魚
+N,ilas, ['ɪləs], 不可算名詞, , , , 山
+N,eihensùr, ['ʌɪhensu:r], 可算名詞, en複数, , , 辞書
+N,lustarv, ['lastərf], 可算名詞, en複数, , , 剣
+N,scenza, [sk'entsə], 可算名詞, en複数, , , 答え
+N,derist, [der'ɪst], 不可算名詞　, 可算名詞, en複数, , A:[不可算名詞] 人 / B:[可算名詞] 者
+AJ,jumir, [jum'ɪ:r], 形容詞, , , , かわいい
+AJ,lei, [lʌɪ], 形容詞, , , , 簡単
+AJ,firtel, [f'ɔ:tɛl], 形容詞, , , , ひとりでに
+AJ,sauvet, [s'ɔːvɛt], 形容詞, , , , 唯一の
+ID,firtelen caziv, [f'ɔ:telɛn k'ɔ:tsɪf], 慣用句, , , , 出てくる
