@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-# 2021 Kanataquire All Rights Reserved.
-
-
 import tkinter as tk
 from tkinter import ttk
 import pandas as pd
